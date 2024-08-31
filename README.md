@@ -6,6 +6,7 @@ This repository contains common algorithms and data structures programs implemen
 
 * Binary Search within arrays:
   * Run-time complexity: O(log(n)).
+  * Space complexity: O(1).
    
 * Bubble Sort within arrays:
   * Run-time complexity: O(n^2).
