@@ -1,6 +1,6 @@
 ## Algorithms and Data Structures
 
-This repository contains common algorithms and data structures programs implemented in Java. It is made for personal learning purpose and for anyone who finds it beneficial.
+This repository contains common algorithms and data structures programs implemented in Java. <br> It is made for personal learning purpose and for anyone who finds it beneficial.
 
 ### Algorithms implemented 
 
